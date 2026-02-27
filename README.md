@@ -11,7 +11,7 @@
 <br>
 <table>
   <tr>
-    <td align="justify" width="60%">
+    <td align="justify" cellspacing="0" cellpadding="0" width="60%">
       About Me: <br>
       I am a student and programming enthusiast with practical experience in small projects, video game development, and Linux environments. 
       I am passionate about creating applications, exploring new technologies, and continuously learning. I am seeking opportunities to apply my knowledge in real projects, improve my skills, and grow professionally in a dynamic and challenging environment.
